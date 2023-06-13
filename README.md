@@ -7,8 +7,10 @@ This In order to run this application on your own machine,
 first intall all python and pip then 
 
 Install flask by running:
+
     pip install flask
 Install python chess by running:
+
     pip install python-chess
     
     
